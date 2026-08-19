@@ -1,4 +1,3 @@
-// C Program that illustrate communication between two process using unnamed pipes
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h> 

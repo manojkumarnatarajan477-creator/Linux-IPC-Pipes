@@ -8,7 +8,7 @@
 #include <sys/wait.h>
 
 void server(int, int); 
-void client(int, int); 
+void client(int, int);  
 
 int main() { 
     int p1[2], p2[2], pid; 

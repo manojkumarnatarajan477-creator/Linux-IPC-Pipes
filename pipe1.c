@@ -10,7 +10,7 @@
 void server(int, int); 
 void client(int, int);  
 
-int main() { 
+int main() {  
     int p1[2], p2[2], pid; 
     pipe(p1); 
     pipe(p2); 

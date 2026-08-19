@@ -200,7 +200,8 @@ void client() {
 
 
 ## OUTPUT
-<img width="467" height="349" alt="image" src="https://github.com/user-attachments/assets/af81d153-3797-4438-ae88-656c3b5448b1" />
+<img width="521" height="350" alt="image" src="https://github.com/user-attachments/assets/8986bc41-3998-49bb-a2bb-d0154dcb6d2d" />
+
 
 
 # RESULT:
